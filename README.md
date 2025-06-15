@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Ali Alsherif
 
-**Creative Frontend Web Developer | UI Animation Enthusiast | AI Student | Community Contributor**
+**Creative Web Developer | UI Animation Enthusiast | AI Student | Community Contributor**
 
 [![LinkedIn: Mohamed Ali Alsherif](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/mohamed-ali-alsherif-541b25252)](https://linkedin.com/in/mohamed-ali-alsherif-541b25252)
 
@@ -8,20 +8,17 @@
 
 ## 👨‍💻 About Me
 
-I'm Mohamed Ali Alsherif, a passionate Frontend Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in crafting interactive, accessible, and responsive web interfaces with a strong focus on performance, design, and user experience.  
+I'm Mohamed Ali Alsherif, a passionate Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in crafting interactive, accessible, and responsive web interfaces with a strong focus on performance, design, and user experience.  
 Currently, I'm pursuing my B.Sc. in Computer Science with a specialization in Artificial Intelligence at Arab Open University.
 
 - **Languages & Frameworks:**  
-  JavaScript (ES6+), HTML5, CSS3, React.js, Next.js, Bootstrap, TailwindCSS
+  C, C++, Python, JavaScript (ES6+), HTML5, CSS3, React.js, Next.js, Bootstrap, TailwindCSS
 
 - **UI/UX Animation:**  
   GSAP, Framer Motion
 
-- **Design & Motion Tools:**  
-  Figma, Adobe After Effects, Illustrator
-
 - **Other Technologies:**  
-  Firebase, Python, OpenCV, AI
+  Django, LangChain, API tools
 
 ---
 
@@ -32,14 +29,6 @@ Explore some of my highlighted projects from my repositories:
 - **Animated Online Library**  
   _React, GSAP, Firebase_  
   ➤ A dynamic digital library interface featuring seamless UI/UX animation and interactive book browsing.
-
-- **Responsive Online Marketplace UI**  
-  _React, Bootstrap_  
-  ➤ A modern e-commerce platform UI focused on accessibility, responsiveness, and user-centric design.
-
-- **2D Animated Restaurant Ad**  
-  _Adobe After Effects, Illustrator_  
-  ➤ High-impact promotional animation designed for restaurant branding and marketing.
 
 - **Eye Gazer Tracking Prototype**  
   _Python, OpenCV, AI_  
