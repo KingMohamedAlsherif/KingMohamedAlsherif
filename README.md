@@ -30,7 +30,7 @@ Explore some of my highlighted projects from my repositories:
   ➤ A dynamic digital library interface featuring seamless UI/UX animation and interactive book browsing.
 
 - **Eye Gazer Tracking Prototype**  
-  _Python, OpenCV, AI_  
+  _Javascript, WebGazer, AI_  
   ➤ Accessibility-focused tool enabling eye-tracking navigation for users with special needs.
 
 - **Motion Graphics for Branding & Education**  
