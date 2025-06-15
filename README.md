@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Ali Alsherif
 
-**Creative Frontend Web Developer | UI Animation Enthusiast | Community Contributor**
+**Creative Frontend Web Developer | UI Animation Enthusiast | AI Student | Community Contributor**
 
 [![LinkedIn: Mohamed Ali Alsherif](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/mohamed-ali-alsherif-541b25252)](https://linkedin.com/in/mohamed-ali-alsherif-541b25252)
 
@@ -8,7 +8,8 @@
 
 ## 👨‍💻 About Me
 
-I'm Mohamed Ali Alsherif, a passionate Frontend Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in building interactive, accessible, and responsive web interfaces with a strong focus on performance and user experience.
+I'm Mohamed Ali Alsherif, a passionate Frontend Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in crafting interactive, accessible, and responsive web interfaces with a strong focus on performance, design, and user experience.  
+Currently, I'm pursuing my B.Sc. in Computer Science with a specialization in Artificial Intelligence at Arab Open University.
 
 - **Languages & Frameworks:**  
   JavaScript (ES6+), HTML5, CSS3, React.js, Next.js, Bootstrap, TailwindCSS
@@ -24,25 +25,37 @@ I'm Mohamed Ali Alsherif, a passionate Frontend Web Developer and UI animation e
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Projects
 
-- **Animated Online Library:**  
-  Built with React, GSAP, and Firebase, focusing on seamless UI/UX animation.
+Explore some of my highlighted projects from my repositories:
 
-- **Responsive Online Marketplace UI:**  
-  Developed using React and Bootstrap, optimized for responsiveness and accessibility.
+- **Animated Online Library**  
+  _React, GSAP, Firebase_  
+  ➤ A dynamic digital library interface featuring seamless UI/UX animation and interactive book browsing.
 
-- **2D Animated Restaurant Ad:**  
-  Created with Adobe After Effects and Illustrator for engaging promotional content.
+- **Responsive Online Marketplace UI**  
+  _React, Bootstrap_  
+  ➤ A modern e-commerce platform UI focused on accessibility, responsiveness, and user-centric design.
 
-- **Eye Gazer Tracking Prototype:**  
-  Developed with Python, OpenCV, and AI for accessibility.
+- **2D Animated Restaurant Ad**  
+  _Adobe After Effects, Illustrator_  
+  ➤ High-impact promotional animation designed for restaurant branding and marketing.
+
+- **Eye Gazer Tracking Prototype**  
+  _Python, OpenCV, AI_  
+  ➤ Accessibility-focused tool enabling eye-tracking navigation for users with special needs.
+
+- **Motion Graphics for Branding & Education**  
+  _Figma, After Effects_  
+  ➤ Regular contributions to community branding and educational initiatives with engaging motion graphics.
+
+> _For more, browse my repositories to discover detailed READMEs and demos for each project!_
 
 ---
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science (Specialization: Artificial Intelligence)**  
+- **B.Sc. in Computer Science (Artificial Intelligence Track)**  
   *Arab Open University, Abu Dhabi*  
   _(Expected Graduation: January 2026)_
 
@@ -56,7 +69,7 @@ I'm Mohamed Ali Alsherif, a passionate Frontend Web Developer and UI animation e
 
 ## 🌍 Languages
 
-- **Arabic:** Native
+- **Arabic:** Native  
 - **English:** Fluent
 
 ---
