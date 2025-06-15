@@ -167,7 +167,7 @@ I'm passionate about accessibility-focused development, creating tools like eye-
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingMohamedAlsherif&show_icons=true&theme=buefy&card_width=490px&line_height=33)
 
-![Mohamed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=KingMohamedAlsheirf&theme=buefy&line_height=33)
+![Mohamed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=KingMohamedAlsherif&theme=buefy&line_height=33)
 
 </div>
 
