@@ -8,8 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Mohamed Ali Alsherif, a passionate Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in crafting interactive, accessible, and responsive web interfaces with a strong focus on performance, design, and user experience.  
-Currently, I'm pursuing my B.Sc. in Computer Science with a specialization in Artificial Intelligence at Arab Open University.
+I'm Mohamed Ali Alsherif, a passionate Web Developer and UI animation enthusiast based in Abu Dhabi. I specialize in crafting interactive, accessible, and responsive web interfaces with a strong focus on user experience and motion design. Currently, I'm pursuing my B.Sc. in Computer Science with a specialization in Artificial Intelligence at Arab Open University.
 
 - **Languages & Frameworks:**  
   C, C++, Python, JavaScript (ES6+), HTML5, CSS3, React.js, Next.js, Bootstrap, TailwindCSS
@@ -37,6 +36,22 @@ Explore some of my highlighted projects from my repositories:
 - **Motion Graphics for Branding & Education**  
   _Figma, After Effects_  
   ➤ Regular contributions to community branding and educational initiatives with engaging motion graphics.
+
+- **Minishell**  
+  _C_  
+  ➤ A minimal Unix shell clone implementing job control, parsing, redirection, and built-in commands, developed as part of the 42 School curriculum.
+
+- **IRC (Internet Relay Chat) Server**  
+  _C++_  
+  ➤ A multi-client IRC server supporting channels, messaging, and user authentication, following the RFC standard for IRC.
+
+- **cub3d**  
+  _C, Raycasting_  
+  ➤ A 3D maze game engine using raycasting, inspired by Wolfenstein 3D, with player navigation, map parsing, and real-time rendering.
+
+- **AI Summarizer using LangChain**  
+  _Python, LangChain, OpenAI_  
+  ➤ An AI-powered application that summarizes documents and articles using LangChain and LLMs for natural language processing.
 
 > _For more, browse my repositories to discover detailed READMEs and demos for each project!_
 
